@@ -349,7 +349,7 @@ i {
 
 .haircut img {
   width: 100%;
-  max-height: 300px;
+  max-height: 200px;
   max-width: 354px;
   transition: transform 0.2s;
 }
